@@ -5,5 +5,14 @@
 #include "ezGame.h"
 
 int main(int argc, char *argv) {
+  bool account = true;
+  
+  if (account = true) {
+    // do nothing
+  } else {
+    return NULL;
+    printf("Please Change Account Variable To True\n");
+  }
+  
   return 0;
 }
