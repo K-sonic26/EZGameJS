@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <errno.h>
+#include <math.h>
+
 typedef render(ren_all) {
 }
 
